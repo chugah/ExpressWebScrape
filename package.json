@@ -1,0 +1,14 @@
+{
+	"name" : "express-web-scrape",
+	"version" : "1.0.0",
+	"description" : "Node & express web scrape",
+	"main" : "server.js",
+	"author" : "sdb",
+	"dependencies" : {
+		"cheerio" : "0.22.0",
+		"express" : "4.13.4",
+		"file-system" : "2.2.2",
+		"request" : "2.73.0"
+	}
+}
+
